@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my first stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "My this is my other stream",
+      "id": 2
+    },
+    {
+      "title": "Stream Redux",
+      "description": "This is my first stream in redux",
+      "id": 3
+    },
+    {
+      "title": "Error stream",
+      "description": "My error stream",
+      "id": 4
+    },
+    {
+      "title": "Hello  Streamers",
+      "description": "Hey Streamers",
+      "userId": "116937175745979853634",
+      "id": 5
+    }
+  ]
+}
