@@ -1,0 +1,41 @@
+Arguments: 
+  /Users/abdulrafiu.bello/.nvm/versions/node/v11.12.0/bin/node /usr/local/bin/yarn add node-midia-server
+
+PATH: 
+  /Users/abdulrafiu.bello/.nvm/versions/node/v11.12.0/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/abdulrafiu.bello/.nvm/versions/node/v11.12.0/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/bin:/Users/abdulrafiu.bello/Library/Android/sdk/tools:/Users/abdulrafiu.bello/Library/Android/sdk/platform-tools:/Users/abdulrafiu.bello/Library/Android/sdk/emulator:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/bin:/Users/abdulrafiu.bello/Library/Android/sdk/tools:/Users/abdulrafiu.bello/Library/Android/sdk/platform-tools:/Users/abdulrafiu.bello/Library/Android/sdk/emulator:/Library/Frameworks/Python.framework/Versions/3.7/bin
+
+Yarn version: 
+  0.24.6
+
+Node version: 
+  11.12.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "rtmp-server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/node-midia-server: Not found
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/0.24.6/libexec/lib/yarn-cli.js:56255:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/0.24.6/libexec/lib/yarn-cli.js:107854:22)
+      at Request.emit (events.js:197:13)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/0.24.6/libexec/lib/yarn-cli.js:108837:10)
+      at Request.emit (events.js:197:13)
+      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/0.24.6/libexec/lib/yarn-cli.js:108757:12)
+      at Object.onceWrapper (events.js:285:20)
+      at IncomingMessage.emit (events.js:202:15)
+      at endReadableNT (_stream_readable.js:1132:12)
+      at processTicksAndRejections (internal/process/next_tick.js:76:17)
